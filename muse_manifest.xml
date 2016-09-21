@@ -1,0 +1,83 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mergingstreams.com" resolutions="1x" timestamp="1474494084864">
+  <folder name="css">
+    <file name="site_global.css" crc="3858932928"/>
+    <file name="stay-in-touch.css" crc="470641844" ref="stay-in-touch"/>
+    <file name="rean-cloud-consulting.css" crc="4206116095" ref="rean-cloud-consulting"/>
+    <file name="untitled-6.css" crc="29858734" ref="untitled-6"/>
+    <file name="index.css" crc="4229151301" ref="index"/>
+    <file name="nomq_index.css" crc="4181585526" ref="index"/>
+    <file name="speak-to-an-expert.css" crc="239434434" ref="speak-to-an-expert"/>
+    <file name="cloud-computing-benefits.css" crc="3927175638" ref="cloud-computing-benefits"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:rean-cloud-consulting:speak-to-an-expert:cloud-computing-benefits:stay-in-touch:untitled-6"/>
+    <file name="museutils.js" crc="3851988764" ref="index:rean-cloud-consulting:speak-to-an-expert:cloud-computing-benefits:stay-in-touch:untitled-6"/>
+    <file name="whatinput.js" crc="86476730" ref="index:rean-cloud-consulting:speak-to-an-expert:cloud-computing-benefits:stay-in-touch:untitled-6"/>
+    <file name="museconfig.js" crc="169177150" ref="index:rean-cloud-consulting:speak-to-an-expert:cloud-computing-benefits:stay-in-touch:untitled-6"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:rean-cloud-consulting:speak-to-an-expert:cloud-computing-benefits:stay-in-touch:untitled-6"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u807.php" crc="3857224540" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index:rean-cloud-consulting:speak-to-an-expert:cloud-computing-benefits:stay-in-touch:untitled-6"/>
+  </folder>
+  <folder name="images">
+    <file name="ms-banner3-02.svg" crc="4247398851" seo="true" ref="index"/>
+    <file name="ms-banner3-02_poster_.png" crc="3999769854" ref="index"/>
+    <file name="cloud-computing-center.svg" crc="3914602171" seo="true" ref="index"/>
+    <file name="cloud computing-center_poster_.png" crc="3973252226" ref="index"/>
+    <file name="cloud-computing-right.svg" crc="4142617933" seo="true" ref="index"/>
+    <file name="cloud computing-right_poster_.png" crc="4227627020" ref="index"/>
+    <file name="cloud-computing-left.svg" crc="404142960" seo="true" ref="index"/>
+    <file name="cloud computing-left_poster_.png" crc="4274096215" ref="index"/>
+    <file name="adobestock_95377542-05.svg" crc="289878199" seo="true" ref="index"/>
+    <file name="adobestock_95377542-05_poster_.png" crc="7518660" ref="index"/>
+    <file name="adobestock_95377542-03.svg" crc="4256377076" seo="true" ref="index"/>
+    <file name="adobestock_95377542-03_poster_.png" crc="427215184" ref="index"/>
+    <file name="adobestock_95377542-06.svg" crc="4281174141" seo="true" ref="index"/>
+    <file name="adobestock_95377542-06_poster_.png" crc="173518147" ref="index"/>
+    <file name="adobestock_95377542-07.svg" crc="321386367" seo="true" ref="index"/>
+    <file name="adobestock_95377542-07_poster_.png" crc="377754948" ref="index"/>
+    <file name="u810-17.png" crc="3826794441" ref="index"/>
+    <file name="u810-17-r.png" crc="106989343" ref="index"/>
+    <file name="u810-17-m.png" crc="4155996395" ref="index"/>
+    <file name="u810-17-fs.png" crc="4102954268" ref="index"/>
+    <file name="pasted image 1276x294.jpg" crc="414608957" seo="true" ref="index"/>
+    <file name="u810-172.png" crc="3826794441" ref="index"/>
+    <file name="u810-17-r2.png" crc="106989343" ref="index"/>
+    <file name="u810-17-m2.png" crc="4155996395" ref="index"/>
+    <file name="u810-17-fs2.png" crc="4102954268" ref="index"/>
+    <file name="u810-173.png" crc="3826794441" ref="index"/>
+    <file name="u810-17-r3.png" crc="106989343" ref="index"/>
+    <file name="u810-17-m3.png" crc="4155996395" ref="index"/>
+    <file name="u810-17-fs3.png" crc="4102954268" ref="index"/>
+    <file name="pasted image 1276x294917x211.jpg" crc="274901878" seo="true" ref="index"/>
+    <file name="u810-174.png" crc="3826794441" ref="index"/>
+    <file name="u810-17-r4.png" crc="106989343" ref="index"/>
+    <file name="u810-17-m4.png" crc="4155996395" ref="index"/>
+    <file name="u810-17-fs4.png" crc="4102954268" ref="index"/>
+    <file name="pasted image 1276x294675x156.jpg" crc="358534902" seo="true" ref="index"/>
+    <file name="u810-175.png" crc="3826794441" ref="index"/>
+    <file name="u810-17-r5.png" crc="106989343" ref="index"/>
+    <file name="u810-17-m5.png" crc="4155996395" ref="index"/>
+    <file name="u810-17-fs5.png" crc="4102954268" ref="index"/>
+    <file name="pasted image 1276x294520x120.jpg" crc="4060642777" seo="true" ref="index"/>
+    <file name="u810-176.png" crc="3826794441" ref="index"/>
+    <file name="u810-17-r6.png" crc="106989343" ref="index"/>
+    <file name="u810-17-m6.png" crc="4155996395" ref="index"/>
+    <file name="u810-17-fs6.png" crc="4102954268" ref="index"/>
+    <file name="pasted image 1276x294319x74.jpg" crc="4212583877" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pasted image 1032x334.jpg" crc="344678492" seo="true" ref="cloud-computing-benefits"/>
+    <file name="pasted image 1158x231.jpg" crc="99347170" seo="true" ref="stay-in-touch"/>
+    <file name="pasted image 990x350.jpg" crc="3974474706" seo="true" ref="untitled-6"/>
+  </folder>
+  <file name="index.html" crc="121004166" seo="true" mt="1474272811296" redirect="true"/>
+  <file name="rean-cloud-consulting.html" crc="4089704692" seo="true" mt="1474232505985" redirect="true"/>
+  <file name="speak-to-an-expert.html" crc="187576615" seo="true" mt="1474268878638" redirect="true"/>
+  <file name="cloud-computing-benefits.html" crc="3966081648" seo="true" mt="1474145214566" redirect="true"/>
+  <file name="stay-in-touch.html" crc="4090679836" seo="true" mt="1474145502439" redirect="true"/>
+  <file name="untitled-6.html" crc="3927059929" seo="true" mt="1474148427637" redirect="true"/>
+</manifest>
